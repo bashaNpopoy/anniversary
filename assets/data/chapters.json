@@ -204,6 +204,7 @@
       "photos": [
         "assets/images/chapter9/photo1.jpg",
         "assets/images/chapter9/photo2.jpg",
+        "assets/images/chapter9/photo3.jpg",
         "assets/images/chapter9/photo3.jpg"
       ],
       "videos": [
@@ -219,8 +220,7 @@
       "music": "assets/music/chapter10.mp3",
       "photos": [
         "assets/images/chapter10/photo1.jpg",
-        "assets/images/chapter10/photo2.jpg",
-        "assets/images/chapter10/photo3.jpg"
+        "assets/images/chapter10/photo2.jpg"
       ],
       "videos": [
         "assets/videos/chapter10/video1.mp4"
@@ -236,7 +236,8 @@
       "photos": [
         "assets/images/chapter11/photo1.jpg",
         "assets/images/chapter11/photo2.jpg",
-        "assets/images/chapter11/photo3.jpg"
+        "assets/images/chapter11/photo3.jpg",
+        "assets/images/chapter11/photo4.jpg"
       ],
       "videos": [
         "assets/videos/chapter11/video1.mp4"
