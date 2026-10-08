@@ -1,0 +1,263 @@
+{
+  "chapters": [
+    {
+      "chapter": 0,
+      "title": "The Beginning",
+      "subtitle": "The day I finally told you how I felt.",
+      "date": "October 8, 2025",
+      "description": "",
+      "cover": "assets/images/chapter0/cover.jpg",
+      "music": "assets/music/chapter0.mp3", 
+      "photos": [
+        "assets/images/chapter0/photo1.jpg",
+        "assets/images/chapter0/photo2.jpg",
+        "assets/images/chapter0/photo3.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter0/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 1,
+      "title": "Our 1st Monthsary",
+      "date": "November 8, 2025",
+      "description": "",
+      "cover": "assets/images/chapter1/cover.jpg",
+      "music": "assets/music/chapter1.mp3",
+      "photos": [
+        "assets/images/chapter1/photo1.jpg",
+        "assets/images/chapter1/photo2.jpg",
+        "assets/images/chapter1/photo3.jpg",
+        "assets/images/chapter1/photo4.jpg",
+        "assets/images/chapter1/photo5.jpg",
+        "assets/images/chapter1/photo6.jpg",
+        "assets/images/chapter1/photo7.jpg",
+        "assets/images/chapter1/photo8.jpg",
+        "assets/images/chapter1/photo9.jpg",
+        "assets/images/chapter1/photo10.jpg",
+        "assets/images/chapter1/photo11.jpg",
+        "assets/images/chapter1/photo12.jpg",
+        "assets/images/chapter1/photo13.jpg",
+        "assets/images/chapter1/photo14.jpg",
+        "assets/images/chapter1/photo15.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter1/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Our 2nd Monthsary",
+      "date": "December, 8, 2025",
+      "description": "",
+      "cover": "assets/images/chapter2/cover.jpg",
+      "music": "assets/music/chapter2.mp3",
+      "photos": [
+        "assets/images/chapter2/photo1.jpg",
+        "assets/images/chapter2/photo2.jpg",
+        "assets/images/chapter2/photo3.jpg",
+        "assets/images/chapter2/photo4.jpg",
+        "assets/images/chapter2/photo5.jpg",
+        "assets/images/chapter2/photo6.jpg",
+        "assets/images/chapter2/photo7.jpg",
+        "assets/images/chapter2/photo8.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter2/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Our 3rd Monthsary",
+      "date": "Januray 8, 2026",
+      "description": "",
+      "cover": "assets/images/chapter3/cover.jpg",
+      "music": "assets/music/chapter3.mp3",
+      "photos": [
+        "assets/images/chapter3/photo1.jpg",
+        "assets/images/chapter3/photo2.jpg",
+        "assets/images/chapter3/photo3.jpg",
+        "assets/images/chapter3/photo4.jpg",
+        "assets/images/chapter3/photo5.jpg",
+        "assets/images/chapter3/photo6.jpg",
+        "assets/images/chapter3/photo7.jpg",
+        "assets/images/chapter3/photo8.jpg",
+        "assets/images/chapter3/photo9.jpg",
+        "assets/images/chapter3/photo10.jpg",
+        "assets/images/chapter3/photo11.jpg",
+        "assets/images/chapter3/photo12.jpg",
+        "assets/images/chapter3/photo13.jpg",
+        "assets/images/chapter3/photo14.jpg",
+        "assets/images/chapter3/photo15.jpg",
+        "assets/images/chapter3/photo16.jpg",
+        "assets/images/chapter3/photo17.jpg",
+        "assets/images/chapter3/photo18.jpg",
+        "assets/images/chapter3/photo19.jpg",
+        "assets/images/chapter3/photo20.jpg",
+        "assets/images/chapter3/photo21.jpg",
+        "assets/images/chapter3/photo22.jpg",
+        "assets/images/chapter3/photo23.jpg",
+        "assets/images/chapter3/photo24.jpg",
+        "assets/images/chapter3/photo25.jpg",
+        "assets/images/chapter3/photo26.jpg",
+        "assets/images/chapter3/photo27.jpg",
+        "assets/images/chapter3/photo28.jpg"
+
+      ],
+      "videos": [
+        "assets/videos/chapter3/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Our 4th Monthsary",
+      "date": "February 8, 2026",
+      "description": "",
+      "cover": "assets/images/chapter4/cover.jpg",
+      "music": "assets/music/chapter4.mp3",
+      "photos": [
+        "assets/images/chapter4/photo1.jpg",
+        "assets/images/chapter4/photo2.jpg",
+        "assets/images/chapter4/photo3.jpg",
+        "assets/images/chapter4/photo4.jpg",
+        "assets/images/chapter4/photo5.jpg",
+        "assets/images/chapter4/photo6.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter4/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Our 5th Monthsary",
+      "date": "MARCH 8, 2026",
+      "description": "",
+      "cover": "assets/images/chapter5/cover.jpg",
+      "music": "assets/music/chapter5.mp3",
+      "photos": [
+        "assets/images/chapter5/photo1.jpg",
+        "assets/images/chapter5/photo2.jpg",
+        "assets/images/chapter5/photo3.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter5/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Our 6th Monthsary",
+      "date": "APRIL 8, 2026",
+      "description": "",
+      "cover": "assets/images/chapter6/cover.jpg",
+      "music": "assets/music/chapter6.mp3",
+      "photos": [
+        "assets/images/chapter6/photo1.jpg",
+        "assets/images/chapter6/photo2.jpg",
+        "assets/images/chapter6/photo3.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter6/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Our 7th Monthsary",
+      "date": "MAY 8, 2026",
+      "description": "",
+      "cover": "assets/images/chapter7/cover.jpg",
+      "music": "assets/music/chapter7.mp3",
+      "photos": [
+        "assets/images/chapter7/photo1.jpg",
+        "assets/images/chapter7/photo2.jpg",
+        "assets/images/chapter7/photo3.jpg",
+        "assets/images/chapter7/photo4.jpg",
+        "assets/images/chapter7/photo5.jpg",
+        "assets/images/chapter7/photo6.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter7/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Our 8th Monthsary",
+      "date": "JUNE 8, 2026",
+      "description": "",
+      "cover": "assets/images/chapter8/cover.jpg",
+      "music": "assets/music/chapter8.mp3",
+      "photos": [
+        "assets/images/chapter8/photo1.jpg",
+        "assets/images/chapter8/photo2.jpg",
+        "assets/images/chapter8/photo3.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter8/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Our 9th Monthsary",
+      "date": "JULY 8, 2026",
+      "description": "",
+      "cover": "assets/images/chapter9/cover.jpg",
+      "music": "assets/music/chapter9.mp3",
+      "photos": [
+        "assets/images/chapter9/photo1.jpg",
+        "assets/images/chapter9/photo2.jpg",
+        "assets/images/chapter9/photo3.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter9/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "Our 10th Monthsary",
+      "date": "AUGUST 8, 2026",
+      "description": "",
+      "cover": "assets/images/chapter10/cover.jpg",
+      "music": "assets/music/chapter10.mp3",
+      "photos": [
+        "assets/images/chapter10/photo1.jpg",
+        "assets/images/chapter10/photo2.jpg",
+        "assets/images/chapter10/photo3.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter10/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "Our 11th Monthsary",
+      "date": "SEPTEMBER 8, 2026",
+      "description": "",
+      "cover": "assets/images/chapter11/cover.jpg",
+      "music": "assets/music/chapter11.mp3",
+      "photos": [
+        "assets/images/chapter11/photo1.jpg",
+        "assets/images/chapter11/photo2.jpg",
+        "assets/images/chapter11/photo3.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter11/video1.mp4"
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "Our 12th Monthsary",
+      "date": "OCTOBER 8, 2026",
+      "description": "",
+      "cover": "assets/images/chapter12/cover.jpg",
+      "music": "assets/music/chapter12.mp3",
+      "photos": [
+        "assets/images/chapter12/photo1.jpg",
+        "assets/images/chapter12/photo2.jpg",
+        "assets/images/chapter12/photo3.jpg"
+      ],
+      "videos": [
+        "assets/videos/chapter12/video1.mp4"
+      ],
+      "finalMessage": "I LOVE YOUU MIKAYY 💜:>"
+    }
+  ]
+}

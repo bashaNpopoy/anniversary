@@ -1,0 +1,33 @@
+/* PHOTOS, VIDEOS, LIGHTBOX */
+.main-photo{margin:16px 0}
+.frame{display:block;width:100%;padding:8px;background:#fffaf0;border:2px solid var(--gold);border-radius:12px;box-shadow:0 0 18px #7b4bc488;cursor:zoom-in}
+.frame img,.tile img{display:block;width:100%;height:auto;max-height:70vh;object-fit:contain;border-radius:6px;background:#efe3c8}
+.gallery{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}
+.tile{padding:4px;background:#fffaf0;border:1.5px solid var(--gold);border-radius:10px;box-shadow:0 4px 12px #7b4bc455;cursor:zoom-in;transition:box-shadow .2s}
+.tile:hover{box-shadow:0 0 18px #7b4bc4}
+.tile img{aspect-ratio:3/4}
+.ph{display:grid;place-items:center;min-height:160px;padding:14px;text-align:center;color:#6b4f1d;font-weight:700;border:2px dashed var(--gold);border-radius:10px;background:repeating-linear-gradient(45deg,#f1e4c4,#f1e4c4 10px,#f6ecd6 10px,#f6ecd6 20px)}
+.videos{display:grid;gap:14px}
+.videos video{width:100%;max-height:75vh;border-radius:10px;border:2px solid var(--gold);background:#000;box-shadow:0 0 18px #7b4bc488}
+#lightbox{position:fixed;inset:0;z-index:100;background:#0d0418f2;display:flex;align-items:center;justify-content:center;touch-action:pan-y}
+#lbImg{max-width:100%;max-height:88vh;object-fit:contain;border-radius:6px;box-shadow:0 0 40px #7b4bc4}
+#lightbox button{position:absolute;background:#2e1650cc;color:#fff;border:1px solid var(--gold);border-radius:50%;width:52px;height:52px;font-size:1.6rem;cursor:pointer}
+#lbClose{top:calc(10px + env(safe-area-inset-top));right:10px}
+#lbPrev{left:6px;top:50%}#lbNext{right:6px;top:50%}
+
+/* FLOATING PHOTOS: slow, endless up-and-down drift with a tiny sway.
+   Slower: raise the seconds (e.g. 9s). Bigger drift: raise 8px / 0.6deg. */
+@keyframes floaty{
+  0%,100%{transform:translateY(0) rotate(-0.5deg)}
+  50%{transform:translateY(-8px) rotate(0.6deg)}
+}
+.frame,.tile{animation:floaty 7s ease-in-out infinite;will-change:transform}
+.tile:nth-child(2n){animation-duration:8.5s;animation-delay:-2s}
+.tile:nth-child(3n){animation-duration:9.5s;animation-delay:-4s}
+.tile:hover{animation-play-state:paused}
+
+/* PHOTOS / VIDEOS BUTTONS */
+.tabs{display:flex;gap:10px;margin:22px 0 6px}
+.tabs .btn{flex:1}
+.tabs .btn.active{background:linear-gradient(#a57ae6,var(--violet));box-shadow:0 0 26px #cdb8ffcc}
+.panel{animation:fade .6s both}
